@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B8FE3F5C-3A10-4A39-8AFC-5C0C4233A4BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArticlePuzzle/Program.cs">
+    <Files>
+      <File FileName="ArticlePuzzle/Program.cs" Line="39" Column="1" />
+      <File FileName="ArticlePuzzle/Article.cs" Line="59" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArticlePuzzle" expanded="True" selected="True">
+            <Node name="ArticlePuzzle" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ArticlePuzzle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/Program.cs" relfile="ArticlePuzzle/Program.cs" line="50" column="1" />
+      <Breakpoint file="/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/Article.cs" relfile="ArticlePuzzle/Article.cs" line="52" column="1" />
+      <Breakpoint file="/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/Article.cs" relfile="ArticlePuzzle/Article.cs" line="49" column="1" />
+      <Breakpoint file="/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/Program.cs" relfile="ArticlePuzzle/Program.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

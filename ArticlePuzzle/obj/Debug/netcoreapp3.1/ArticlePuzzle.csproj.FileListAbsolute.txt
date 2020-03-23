@@ -1,0 +1,10 @@
+/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/bin/Debug/netcoreapp3.1/ArticlePuzzle.deps.json
+/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/bin/Debug/netcoreapp3.1/ArticlePuzzle.runtimeconfig.json
+/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/bin/Debug/netcoreapp3.1/ArticlePuzzle.runtimeconfig.dev.json
+/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/bin/Debug/netcoreapp3.1/ArticlePuzzle.dll
+/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/bin/Debug/netcoreapp3.1/ArticlePuzzle.pdb
+/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/obj/Debug/netcoreapp3.1/ArticlePuzzle.csprojAssemblyReference.cache
+/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/obj/Debug/netcoreapp3.1/ArticlePuzzle.AssemblyInfoInputs.cache
+/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/obj/Debug/netcoreapp3.1/ArticlePuzzle.AssemblyInfo.cs
+/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/obj/Debug/netcoreapp3.1/ArticlePuzzle.dll
+/Users/innocenzotremamondo/Projects/ArticlePuzzle/ArticlePuzzle/obj/Debug/netcoreapp3.1/ArticlePuzzle.pdb

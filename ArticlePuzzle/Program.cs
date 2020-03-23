@@ -6,6 +6,29 @@ namespace ArticlePuzzle
 {
     class Program
     {
+
+        //fare la struct “rankArticle”
+        struct rankArticle
+        {
+            public float xArticle;
+            public float yArticle;
+
+            public rankArticle(float x, float y)
+            {
+                this.xArticle = x;
+                this.yArticle = y;
+            }
+        }
+
+        //fare l’enum “startDateArticle”
+        public enum startDateArticle
+        {
+            morning = 1,
+            afternoon = 2,
+            evening = 3
+
+        }
+
         static void Main(string[] args)
         {
             //utilizzare .GetMethod per prendere la Method Info
